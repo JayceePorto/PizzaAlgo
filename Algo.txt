@@ -1,0 +1,7 @@
+Decide which pizze place to eat from
+Choose what type of pizza you want
+Decide if you want sides with pizza
+Call and order pizza
+Wait for pizza
+Pay for pizza once delivered
+Eat pizza 
