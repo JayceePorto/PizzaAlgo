@@ -1,7 +1,59 @@
-1. Decide which pizze place to eat from
-2. Choose what type of pizza you want
-3. Decide if you want sides with pizza
-4. Call and order pizza
-5. Wait for pizza
-6. Pay for pizza once delivered
-7. Eat pizza 
+1. Decide how to order
+    1a. Phone
+    1b. Online
+    1c. In store
+2. Decide how you will get the pizza
+    2a. Delivery
+        a. Through store
+        b. Through delivery service
+    2b. Pickup
+3. Decide which pizze place to eat from
+    3a. Papa Johns
+    3b. Dominos
+    3c. Pasquales
+    3d. Pizza Hut
+    3e. Local pizza place
+4. Choose what type of pizza you want
+    4a. Cheese
+    4b. Peperoni
+    4c. Supreme
+    4d. Meat Lovers
+5. Decide what style of pizza you want
+    5a. Chicago
+    5b. Neapolitan
+    5c. Sicilian
+    5d. New York
+    5e. Stuffed Crust
+6. Decide if you want sides with pizza
+    6a. Bread Sticks
+    6b. Wings
+    6c. Cheesy Bread
+7. Decide how to pay 
+    7a. Card
+    7b. Cash
+    7c. Online
+8. Order pizza through method chosen above
+9. Wait for pizza to be made
+10. Receive confirmation that pizza is ready
+    10a. Through text
+    10b. Through email
+    10c. Through phone call
+11. Get pizza
+    11a. If you ordered delivery answer door 
+        a. Tip driver
+    11b. If you decided to pickup go to store
+        a. Bring back home
+12. If you receive the wrong order
+    12a. Through delivery
+        a. Tell driver that the wrong pizza was delivered
+        b. Call pizza place and politely explain the problem  
+        c. Wait for new pizza 
+        d. Receive new pizza
+    12b. Through pickup
+        a. Tell cashier
+        b. Ask to fix order
+        c. Wait for new pizza to be made
+        d. Receive new pizza
+13. Pour drink
+14. Eat pizza 
+15. Enjoy
